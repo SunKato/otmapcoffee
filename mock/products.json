@@ -5,7 +5,7 @@
     "price": 35000,
     "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-1.webp",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
-    "categoryId": ["coffee", "drinks"],
+    "categoryId": ["coffee"],
     "variantId": ["size", "topping"]
   },
   {
@@ -81,7 +81,7 @@
       "percent": 0.2
     },
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
-    "categoryId": ["coffee", "milktea", "drinks"],
+    "categoryId": ["coffee", "milktea"],
     "variantId": ["size", "topping"]
   },
   {
@@ -94,7 +94,7 @@
       "amount": 7000
     },
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
-    "categoryId": ["coffee", "drinks"],
+    "categoryId": ["coffee"],
     "variantId": ["size", "topping"]
   },
   {
@@ -109,5 +109,298 @@
       "type": "percent",
       "percent": 0.5
     }
-  }
+  },
+  {
+  "id": 12,
+  "name": "Cafe sữa",
+  "price": 45000,
+  "image": "https://thuytinhgiare.com/wp-content/uploads/2023/07/hinh-anh-ly-cafe-sua-da_3.jpg",
+  "description": "There is a set of mock banners available <u>here</u> in three colours and...",
+  "categoryId": ["coffee"],
+  "variantId": ["size", "topping"]
+},
+   
+{
+  "id": 13,
+  "name": "Snack khô mực Bento Thái Lan",
+  "price": 25000,
+  "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lqodcyf67pw230",
+  "description": "Snack khô mực vị cay thơm ngon, ăn vặt siêu vui miệng, được nhập khẩu từ Thái Lan.",
+  "categoryId": ["food", "anvat"],
+  "variantId": ["size"]
+}
+,
+{
+  "id": 14,
+  "name": "Trà sữa trân châu đường đen",
+  "price": 33000,
+  "image": "https://store.longphuong.vn/wp-content/uploads/2022/09/tra-sua-tran-chau-duong-den.jpg",
+  "description": "Trà sữa trân châu đường đen thơm ngon béo ngậy, vị ngọt thanh và trân châu dai giòn hấp dẫn.",
+  "categoryId": ["milktea"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 15,
+  "name": "Trà sữa kem trứng nướng",
+  "price": 43000,
+  "image": "https://lypham.vn/wp-content/uploads/2025/01/cach-lam-tra-sua-kem-dua-nuong.jpg",
+  "description": "Trà sữa với lớp kem trứng nướng caramel thơm béo, topping trân châu đường đen hấp dẫn.",
+  "categoryId": ["milktea"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 16,
+  "name": "Trà sữa trân châu",
+  "price": 33000,
+  "image": "https://khothietke.net/wp-content/uploads/2021/03/taifree1392-tra-sua-tran-chau.png",
+  "description": "Trà sữa thơm béo với lớp trân châu dai giòn, đậm vị truyền thống.",
+  "categoryId": ["milktea"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 17,
+  "name": "Cà phê đen",
+  "price": 20000,
+  "image": "https://cafedidong.vn/wp-content/uploads/2018/12/1-CAFE-%C4%90EN.jpg",
+  "description": "Cà phê đen nguyên chất, đậm vị, không sữa – lựa chọn hoàn hảo cho ngày cần tỉnh táo.",
+  "categoryId": ["coffee"],
+  "variantId": []
+},
+{
+  "id": 18,
+  "name": "Bạc xỉu",
+  "price": 28000,
+  "image": "https://cdn.tgdd.vn/2021/03/content/Bac-xiu-la-gi-nguon-goc-va-cach-lam-bac-xiu-thom-ngon-don-gian-tai-nha-5-800x529.jpg",
+  "description": "Bạc xỉu – ly sữa thơm béo với một chút cà phê, đặc trưng miền Nam.",
+  "categoryId": ["coffee"],
+  "variantId": ["size"]
+},
+{
+  "id": 19,
+  "name": "Cà phê sữa tươi",
+  "price": 28000,
+  "image": "https://caphenguyenchat.vn/wp-content/uploads/2023/11/ca-phe-sua-tuoi.jpg",
+  "description": "Cà phê pha phin kết hợp sữa tươi – vị béo nhẹ, thơm ngon, lựa chọn cho buổi sáng.",
+  "categoryId": ["coffee"],
+  "variantId": ["size"]
+},
+{
+  "id": 20,
+  "name": "Cà phê kem muối",
+  "price": 32000,
+  "image": "https://winci.com.vn/wp-content/uploads/2023/12/cach-lam-kem-man-cho-ca-phe-muoi.jpg",
+  "description": "Cà phê nguyên chất được phủ lớp kem muối béo mặn ngọt – thức uống hiện đại và đầy phong cách.",
+  "categoryId": ["coffee"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 21,
+  "name": "Matcha Latte",
+  "price": 35000,
+  "image": "https://mitziemee.com/wp-content/uploads/2024/05/2024-5-92-1.jpg",
+  "description": "Matcha Latte xanh mềm mịn, kết hợp bột matcha đặc trưng và sữa tươi – lựa chọn thanh nhẹ cho hôm năng động.",
+  "categoryId": ["matcha"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 22,
+  "name": "Matcha Caramel Latte",
+  "price": 38000,
+  "image": "https://cdn.shopify.com/s/files/1/1028/7817/files/CaramelMatchaLatte-3_600x600.jpg?v=1603740161",
+  "description": "Matcha Latte hòa quyện với caramel béo ngọt – lựa chọn hiện đại cho tín đồ matcha.",
+  "categoryId": ["matcha"],
+  "variantId": ["size", "topping"]
+}
+,{
+  "id": 23,
+  "name": "Matcha Latte dâu",
+  "price": 38000,
+  "image": "https://thombuidaynauan.vn/upload/news/6533daulatte.jpg",
+  "description": "Matcha Latte pha với siro dâu tươi – vị xanh matcha hài hòa cùng vị ngọt dịu của dâu.",
+  "categoryId": ["matcha"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 24,
+  "name": "Matcha Latte Việt Quốc",
+  "price": 38000,
+  "image": "https://caphelangxua.com/watermark/product/855x960x1/upload/product/img1920x6558557c9075a0-34684343-21291553-3075.jpg",
+  "description": "Matcha Latte pha với siro việt quốc – vị xanh matcha thanh mát hòa cùng vị ngọt chua nhẹ của việt quốc.",
+  "categoryId": ["matcha"],
+  "variantId": ["size", "topping"]
+}
+,{
+  "id": 25,
+  "name": "Cacao Latte",
+  "price": 30000,
+  "image": "https://cdn.tgdd.vn/Files/2022/05/11/1431737/huong-dan-cach-pha-cacao-latte-don-gian-tai-nha-giai-nhiet-co-the-202205111147397113.jpg",
+  "description": "Cacao Latte – thức uống êm dịu, kết hợp cacao nguyên chất và sữa tươi, lựa chọn hoàn hảo cho chiều thư giãn.",
+  "categoryId": ["coffee", "cacao"],
+  "variantId": ["size", "topping"]
+},
+{
+  "id": 26,
+  "name": "Khoai môn Latte",
+  "price": 30000,
+  "image": "https://file.hstatic.net/200000538679/file/cong-thuc-pha-tra-sua-khoai-mon-don-gian_1_b63643eb5f0141cba7215bc25f0f68b6_grande.jpg",
+  "description": "Latte khoai môn béo ngậy với màu tím pastel nhẹ nhàng – lựa chọn thơm ngon cho ngày thư giãn.",
+  "categoryId": ["matcha", "specialty"],
+  "variantId": ["size"]
+},
+{
+  "id": 27,
+  "name": "Cacao bạc hà",
+  "price": 39000,
+  "image": "https://cdn.tgdd.vn/2021/07/CookRecipe/GalleryStep/thanh-pham-703.jpg",
+  "description": "Cacao kết hợp hương bạc hà thơm mát và vị ngọt dịu – lựa chọn nhẹ nhàng cho ngày mưa.",
+  "categoryId": ["coffee", "cacao"],
+  "variantId": ["size"]
+},
+{
+  "id": 28,
+  "name": "Nước ép táo",
+  "price": 30000,
+  "image": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-tao-thumbnail.jpg",
+  "description": "Nước ép táo tươi thơm dịu, mùa hè giải khát tuyệt vời.",
+  "categoryId": ["juice"],
+  "variantId": ["size"]
+}
+,
+{
+  "id": 29,
+  "name": "Trà táo xanh",
+  "price": 30000,
+  "image": "https://cdn-img.thethao247.vn/origin_640x0/storage/files/linhseo/2022/06/06/1481298560111-1654505791.jpeg",
+  "description": "Trà táo xanh thơm mát, vị táo nhẹ và thanh – lựa chọn lý tưởng cho ngày nắng.",
+  "categoryId": [ "juice"],
+  "variantId": ["size"]
+},
+{
+  "id": 30,
+  "name": "Trà đào nhiệt đới",
+  "price": 30000,
+  "image": "https://fnbmarketing.edu.vn/wp-content/uploads/2022/06/cong-thuc-tra-dao-cam-sa-chuan-vi-1.jpg",
+  "description": "Trà đào pha cùng cam và sả – vị trái cây nhiệt đới thơm mát, lựa chọn giải khát cho ngày nóng.",
+  "categoryId": [ "juice"],
+  "variantId": ["size"]
+},
+{
+  "id": 31,
+  "name": "Trà dưa lưới",
+  "price": 30000,
+  "image": "https://tea-pop.com.vn/watermark/product/540x540x1/upload/product/tra-dua-luoi-hoang-kim-2789.jpg",
+  "description": "Trà dưa lưới Hoàng Kim – vị dưa lưới tự nhiên thơm mát, lựa chọn giải khát nhẹ nhàng.",
+  "categoryId": ["juice"],
+  "variantId": ["size"]
+},
+  {
+  "id": 32,
+  "name": "Trà dâu",
+  "price": 30000,
+  "image": "https://tim-deli.vn/wp-content/uploads/2024/10/tra-dau-500x500_1.png",
+  "description": "Trà dâu tươi thơm mát – lựa chọn ngọt dịu cho ngày thư giãn.",
+  "categoryId": ["juice"],
+  "variantId": ["size"]
+},
+{
+  "id": 33,
+  "name": "Trà ổi",
+  "price": 30000,
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2021/03/tra-oi-hong-thoang-thoang-hoa-nhai.jpg",
+  "description": "Trà ổi hồng thơm nhẹ với hương hoa nhài – món giải khát dịu mát.",
+  "categoryId": ["juice"],
+  "variantId": ["size"]
+}
+,{
+  "id": 34,
+  "name": "Trà vải",
+  "price": 30000,
+  "image": "https://www.unileverfoodsolutions.com.vn/dam/global-ufs/mcos/phvn/vietnam/calcmenu/recipes/VN-recipes/other/sweet-lychee-tea/main-header.jpg",
+  "description": "Trà vải thơm ngọt vị trái cây – món giải khát lý tưởng cho ngày nóng.",
+  "categoryId": ["juice"],
+  "variantId": ["size"]
+},
+{
+  "id": 35,
+  "name": "Coca-Cola original 320 ml",
+  "price": 20000,
+  "image": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/coca-cola/vn-coca-cola.png",
+  "description": "Nước ngọt Coca-Cola chính hãng, lon 320 ml — lựa chọn giải khát phổ biến.",
+  "categoryId": ["drinks", "softdrink"],
+  "variantId": ["size"]
+}
+,{
+  "id": 36,
+  "name": "Mirinda Hương Soda Kem 320ml",
+  "price": 20000,
+  "image": "https://cdn.tgdd.vn/Products/Images/2443/158318/bhx/nuoc-ngot-mirinda-vi-soda-kem-lon-320ml-202312260859381014.jpg",
+  "description": "Nước ngọt Mirinda vị soda kem lon 320ml – lựa chọn giải khát nhanh và sảng khoái.",
+  "categoryId": ["drinks", "softdrink"],
+  "variantId": ["size"]
+},
+{
+  "id": 37,
+  "name": "Pepsi Lon 320ml",
+  "price": 19000,
+  "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/437/181/products/589620f2-a149-47a1-8a4d-68a4bc9608d5.jpg?v=1680139250313",
+  "description": "Pepsi Cola lon 320ml – lựa chọn nước ngọt phổ biến giải khát nhanh.",
+  "categoryId": ["drinks", "softdrink"],
+  "variantId": ["size"]
+}
+,{
+  "id": 38,
+  "name": "Sting Đỏ 320ml",
+  "price": 20000,
+  "image": "https://horeco.vn/wp-content/uploads/2022/10/nuoc-sting-dau-320ml-24-lon-thung_1.jpg",
+  "description": "Nước tăng lực Sting vị dâu 320ml – lựa chọn mạnh mẽ cho khoảnh khắc cần năng lượng.",
+  "categoryId": ["drinks", "softdrink"],
+  "variantId": ["size"]
+}
+,{
+  "id": 39,
+  "name": "Red Bull Lon 250ml",
+  "price": 20000,
+  "image": "https://cdn.tgdd.vn/Products/Images/3226/76513/bhx/nuoc-tang-luc-redbull-lon-250ml-15112018162747.JPG",
+  "description": "Nước tăng lực Red Bull lon 250 ml – lựa chọn nhanh chóng cho khoảnh khắc cần năng lượng.",
+  "categoryId": ["drinks", "softdrink"],
+  "variantId": ["size"]
+}
+,{
+  "id": 40,
+  "name": "Number 1 Energy Drink 330 ml",
+  "price": 20000,
+  "image": "https://d1v5l30g8wuyvb.cloudfront.net/thp.com.vn/uploads/2025/07/30160948/2.png",
+  "description": "Nước tăng lực Number 1 – thương hiệu hàng đầu Việt Nam, giúp tiếp năng lượng nhanh chóng. :contentReference[oaicite:1]{index=1}",
+  "categoryId": ["drinks", "softdrink"],
+  "variantId": ["size"]
+},
+{
+  "id": 41,
+  "name": "Aquafina Nước khoáng 500ml",
+  "price": 15000,
+  "image": "https://truongphatdat.com/wp-content/uploads/2018/09/aquafina-500ml.jpg",
+  "description": "Nước khoáng Aquafina 500ml – giải khát nhẹ nhàng, thanh lọc cơ thể.",
+  "categoryId": ["drinks", "water"],
+  "variantId": ["size"]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
