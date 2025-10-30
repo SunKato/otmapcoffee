@@ -47,7 +47,7 @@ export function calcFinalPrice(product: Product, options?: SelectedOptions) {
 }
 
 export function getDummyImage(filename: string) {
-  return `https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/${filename}`;
+  return `https://res.cloudinary.com/dmcfogztd/image/upload/${filename}`;
 }
 
 export function isIdentical(
@@ -85,6 +85,7 @@ const pay = (amount: number, description?: string) =>
       description ??
       `Thanh toán cho ${getConfig((config) => config.app.title)}`,
     item: [],
+    mac: "f7eced24b49185f641534e8ebebde870fab41e1a1ae2faf1cdbc8f1bf58a1f1c",
     amount: amount,
     success: (data) => {
       console.log("Payment success: ", data);
