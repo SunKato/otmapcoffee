@@ -19,8 +19,6 @@ const HomePage: React.FunctionComponent = () => {
           <Categories />
         </Suspense>
         <Divider />
-        <Recommend />
-        <Divider />
         <ProductList />
         <Divider />
       </Box>

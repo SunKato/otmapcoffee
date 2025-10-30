@@ -109,6 +109,24 @@ export const notificationsState = atom<Notification[]>({
       title: "Giảm 50% lần đầu mua hàng",
       content: "Nhập WELCOME để được giảm 50% giá trị đơn hàng đầu tiên order",
     },
+     {
+      id: 3,
+      image: logo,
+      title: "Giảm 50% lần đầu mua hàng",
+      content: "Nhập WELCOME để được giảm 50% giá trị đơn hàng đầu tiên order",
+    },
+     {
+      id: 4,
+      image: logo,
+      title: "Giảm 50% lần đầu mua hàng",
+      content: "Nhập WELCOME để được giảm 50% giá trị đơn hàng đầu tiên order",
+    },
+     {
+      id: 5,
+      image: logo,
+      title: "Giảm 50% lần đầu mua hàng",
+      content: "Nhập WELCOME để được giảm 50% giá trị đơn hàng đầu tiên order",
+    },
   ],
 });
 

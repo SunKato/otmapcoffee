@@ -2,36 +2,36 @@
   {
     "id": "coffee",
     "name": "Cà phê",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-coffee.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831921/icon-caphe_rook90.png"
   },
   {
     "id": "matcha",
     "name": "Trà xanh",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-matcha.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831926/icon-traxanh_lrdbde.png"
   },
   {
     "id": "food",
     "name": "Đồ ăn vặt",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-food.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831922/icon-doanvat_vphwji.png"
   },
   {
     "id": "milktea",
     "name": "Trà sữa",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-milktea.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831925/icon-trasua_ab21xv.png"
   },
   {
     "id": "drinks",
     "name": "Giải khát",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-drinks.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831920/icon-nuocgiaikhat.png"
   },
   {
     "id": "bread",
     "name": "Bánh mỳ",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-bread.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831920/icon-banhmi_w3evz2.png"
   },
   {
     "id": "juice",
     "name": "Trà Trái Cây",
-    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-juice.svg"
+    "icon": "https://res.cloudinary.com/dmcfogztd/image/upload/v1761831997/icon-tratraicay_xeqoej.png"
   }
 ]
