@@ -2,23 +2,21 @@ import React, { FC } from "react";
 import { Divider } from "components/divider";
 import { Header, Page } from "zmp-ui";
 import { CartItems } from "./cart-items";
-import { CartPreview } from "./preview";
-import { TermsAndPolicies } from "./term-and-policies";
-import { Delivery } from "./delivery";
+import { OrderInfo } from "./order-info";
+import { CheckoutFooter } from "./checkout-footer";
 import { useVirtualKeyboardVisible } from "hooks";
 
 const CartPage: FC = () => {
   const keyboardVisible = useVirtualKeyboardVisible();
 
   return (
-    <Page className="flex flex-col">
+    <Page className="flex flex-col bg-background">
       <Header title="Giỏ hàng" showBackIcon={false} />
       <CartItems />
-      <Delivery />
       <Divider size={12} />
-      <TermsAndPolicies />
-      <Divider size={32} className="flex-1" />
-      {!keyboardVisible && <CartPreview />}
+      <OrderInfo />
+      <Divider size={80} className="flex-1" />
+      {!keyboardVisible && <CheckoutFooter />}
     </Page>
   );
 };
