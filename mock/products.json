@@ -127,7 +127,7 @@
   "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lqodcyf67pw230",
   "description": "Snack khô mực vị cay thơm ngon, ăn vặt siêu vui miệng, được nhập khẩu từ Thái Lan.",
   "categoryId": ["food", "anvat"],
-  "variantId": ["size"]
+  "variantId": []
 }
 ,
 {
@@ -345,7 +345,7 @@
   "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/437/181/products/589620f2-a149-47a1-8a4d-68a4bc9608d5.jpg?v=1680139250313",
   "description": "Pepsi Cola lon 320ml – lựa chọn nước ngọt phổ biến giải khát nhanh.",
   "categoryId": ["drinks", "softdrink"],
-  "variantId": ["size"]
+  "variantId": []
 }
 ,{
   "id": 38,
@@ -354,7 +354,7 @@
   "image": "https://horeco.vn/wp-content/uploads/2022/10/nuoc-sting-dau-320ml-24-lon-thung_1.jpg",
   "description": "Nước tăng lực Sting vị dâu 320ml – lựa chọn mạnh mẽ cho khoảnh khắc cần năng lượng.",
   "categoryId": ["drinks", "softdrink"],
-  "variantId": ["size"]
+  "variantId": []
 }
 ,{
   "id": 39,
@@ -363,7 +363,7 @@
   "image": "https://cdn.tgdd.vn/Products/Images/3226/76513/bhx/nuoc-tang-luc-redbull-lon-250ml-15112018162747.JPG",
   "description": "Nước tăng lực Red Bull lon 250 ml – lựa chọn nhanh chóng cho khoảnh khắc cần năng lượng.",
   "categoryId": ["drinks", "softdrink"],
-  "variantId": ["size"]
+  "variantId": []
 }
 ,{
   "id": 40,
@@ -372,16 +372,16 @@
   "image": "https://d1v5l30g8wuyvb.cloudfront.net/thp.com.vn/uploads/2025/07/30160948/2.png",
   "description": "Nước tăng lực Number 1 – thương hiệu hàng đầu Việt Nam, giúp tiếp năng lượng nhanh chóng. :contentReference[oaicite:1]{index=1}",
   "categoryId": ["drinks", "softdrink"],
-  "variantId": ["size"]
+  "variantId": []
 },
 {
   "id": 41,
-  "name": "Aquafina Nước khoáng 500ml",
+  "name": "Aquafina Nước khoáng aqua 500ml",
   "price": 15000,
   "image": "https://truongphatdat.com/wp-content/uploads/2018/09/aquafina-500ml.jpg",
   "description": "Nước khoáng Aquafina 500ml – giải khát nhẹ nhàng, thanh lọc cơ thể.",
   "categoryId": ["drinks", "water"],
-  "variantId": ["size"]
+  "variantId": []
 }
 
 
